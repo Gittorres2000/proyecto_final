@@ -2,7 +2,7 @@
 
 Autor: Kevin Andrés Torres Torres
 Curso: GF-0657 Programación en SIG, 2026-II, Universidad de Costa Rica
-Aplicación publicada: [pegue aquí el enlace de Streamlit Community Cloud, por ejemplo https://usuario-proyecto.streamlit.app]
+Aplicación publicada: [https://proyectofinal-lulc.streamlit.app/]
 
 **Descripción**
 
